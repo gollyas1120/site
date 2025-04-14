@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 .. image:: img/banner/geo-python-2023.png
-    :class: dark-light
+    :class: dark-light red
 
 Welcome to Geo-Python 2024!
 ===========================
